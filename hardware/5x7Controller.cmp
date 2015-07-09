@@ -1,0 +1,213 @@
+Cmp-Mod V01 Created by Cvpcb (after 2015-may-25 BZR unknown)-product   date = 7/6/2015 6:51:34 PM
+
+BeginCmp
+TimeStamp = /559A3AA5;
+Reference = C1;
+ValeurCmp = 0.1uF;
+IdModule  = w_smd_cap:c_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /559A3AEA;
+Reference = C2;
+ValeurCmp = 10uF;
+IdModule  = w_smd_cap:c_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /559841F3;
+Reference = DS1;
+ValeurCmp = VAOM-C07573G9-BW/32;
+IdModule  = 5x7Controller:VAOM-A07573G9;
+EndCmp
+
+BeginCmp
+TimeStamp = /55984EE7;
+Reference = DS2;
+ValeurCmp = VAOM-C07573G9-BW/32;
+IdModule  = 5x7Controller:VAOM-A07573G9;
+EndCmp
+
+BeginCmp
+TimeStamp = /559850A5;
+Reference = DS3;
+ValeurCmp = VAOM-C07573G9-BW/32;
+IdModule  = 5x7Controller:VAOM-A07573G9;
+EndCmp
+
+BeginCmp
+TimeStamp = /559850C1;
+Reference = DS4;
+ValeurCmp = VAOM-C07573G9-BW/32;
+IdModule  = 5x7Controller:VAOM-A07573G9;
+EndCmp
+
+BeginCmp
+TimeStamp = /55994BD0;
+Reference = J1;
+ValeurCmp = CNT_CLK_SEL;
+IdModule  = w_details:3-way_bridge_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /5599591B;
+Reference = J2;
+ValeurCmp = HEADER_6;
+IdModule  = w_pin_strip:pin_strip_6;
+EndCmp
+
+BeginCmp
+TimeStamp = /559B31B3;
+Reference = J3;
+ValeurCmp = SPI;
+IdModule  = w_pin_strip:pin_socket_4;
+EndCmp
+
+BeginCmp
+TimeStamp = /559A89B5;
+Reference = J4;
+ValeurCmp = POGOPROG;
+IdModule  = 5x7Controller:POGOPROG-CONN-OH-SMALLERVIAS;
+EndCmp
+
+BeginCmp
+TimeStamp = /559B30EC;
+Reference = J5;
+ValeurCmp = I2C;
+IdModule  = w_pin_strip:pin_socket_2;
+EndCmp
+
+BeginCmp
+TimeStamp = /559B3167;
+Reference = J6;
+ValeurCmp = UART;
+IdModule  = w_pin_strip:pin_socket_2;
+EndCmp
+
+BeginCmp
+TimeStamp = /559B0AED;
+Reference = J7;
+ValeurCmp = PROGRAMMING;
+IdModule  = w_pin_strip:pin_strip_6;
+EndCmp
+
+BeginCmp
+TimeStamp = /559C51B0;
+Reference = LD1;
+ValeurCmp = LED;
+IdModule  = w_smd_leds:Led_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /559A25FD;
+Reference = PCB1;
+ValeurCmp = PCB_DP_RECTANGLE-43X70;
+IdModule  = dp_devices:dp_devices-DP7043_V1;
+EndCmp
+
+BeginCmp
+TimeStamp = /5598586D;
+Reference = Q1;
+ValeurCmp = IRLML5203;
+IdModule  = w_smd_trans:sot23;
+EndCmp
+
+BeginCmp
+TimeStamp = /5598579D;
+Reference = Q2;
+ValeurCmp = IRLML5203;
+IdModule  = w_smd_trans:sot23;
+EndCmp
+
+BeginCmp
+TimeStamp = /55985727;
+Reference = Q3;
+ValeurCmp = IRLML5203;
+IdModule  = w_smd_trans:sot23;
+EndCmp
+
+BeginCmp
+TimeStamp = /559856AB;
+Reference = Q4;
+ValeurCmp = IRLML5203;
+IdModule  = w_smd_trans:sot23;
+EndCmp
+
+BeginCmp
+TimeStamp = /559856F7;
+Reference = Q5;
+ValeurCmp = IRLML5203;
+IdModule  = w_smd_trans:sot23;
+EndCmp
+
+BeginCmp
+TimeStamp = /5598559A;
+Reference = Q6;
+ValeurCmp = IRLML5203;
+IdModule  = w_smd_trans:sot23;
+EndCmp
+
+BeginCmp
+TimeStamp = /559843A9;
+Reference = Q7;
+ValeurCmp = IRLML5203;
+IdModule  = w_smd_trans:sot23;
+EndCmp
+
+BeginCmp
+TimeStamp = /5598FE21;
+Reference = R1;
+ValeurCmp = 2.7K;
+IdModule  = w_smd_resistors:r_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /5598D9F4;
+Reference = R2;
+ValeurCmp = 2.7K;
+IdModule  = w_smd_resistors:r_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /559C521F;
+Reference = R3;
+ValeurCmp = 220;
+IdModule  = w_smd_resistors:r_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /55997E1D;
+Reference = U1;
+ValeurCmp = 4022;
+IdModule  = w_smd_dil:tssop-16;
+EndCmp
+
+BeginCmp
+TimeStamp = /5598B867;
+Reference = U2;
+ValeurCmp = TLC59284;
+IdModule  = w_smd_dil:ssop-24;
+EndCmp
+
+BeginCmp
+TimeStamp = /5598E898;
+Reference = U3;
+ValeurCmp = TLC59284;
+IdModule  = w_smd_dil:ssop-24;
+EndCmp
+
+BeginCmp
+TimeStamp = /5599B789;
+Reference = U4;
+ValeurCmp = 74HC540;
+IdModule  = w_smd_dil:tssop-20;
+EndCmp
+
+BeginCmp
+TimeStamp = /5599CC46;
+Reference = U5;
+ValeurCmp = MKL02Z32VFM4;
+IdModule  = Housings_DFN_QFN:QFN-32-1EP_5x5mm_Pitch0.5mm;
+EndCmp
+
+EndListe

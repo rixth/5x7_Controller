@@ -1,0 +1,11 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP VAOM-A07573G9
+D Dot matrix display, common anode, VISUAL COMMUNICATIONS COMPANY VAOM-A07573G9-BW/32
+$ENDCMP
+#
+$CMP VAOM-C07573G9-BW/32
+D Dot matrix display, common cathode, US Electronics CMD-5571x00
+$ENDCMP
+#
+#End Doc Library

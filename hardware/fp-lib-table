@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name 5x7Controller)(type KiCad)(uri "$(KIPRJMOD)\\5x7Controller.pretty")(options "")(descr ""))
+)
